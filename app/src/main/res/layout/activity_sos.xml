@@ -245,7 +245,7 @@
             android:layout_weight="1"
             android:textSize="25dp"
             android:textColor="#FFFFFF"
-            android:paddingLeft="10dp"
+            android:paddingLeft="11dp"
             android:textStyle="bold|italic"
             android:text="All In One"/>
         <ImageButton
